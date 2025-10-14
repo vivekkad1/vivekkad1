@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Vivek Kadavergu  
 
-<!--
-**vivekkad1/vivekkad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | React Enthusiast | AI Learner
 
-Here are some ideas to get you started:
+I'm passionate about crafting clean, responsive, and interactive web interfaces.  
+I enjoy transforming ideas into digital experiences using modern frontend technologies and continuously learning new concepts in Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack
+Frontend: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS  
+Programming: Python  
+Learning: Web Development, Artificial Intelligence
+
+🚀 About Me
+- 🌱 Currently improving my React and AI skills  
+- 💡 I love solving UI challenges and optimizing user experiences  
+- ⚙️ Open to collaboration on frontend or AI-based projects  
