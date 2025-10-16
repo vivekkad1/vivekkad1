@@ -11,6 +11,6 @@ Programming: Python
 Learning: Web Development, Artificial Intelligence
 
 🚀 About Me
-- 🌱 Currently improving my React and AI skills  
-- 💡 I love solving UI challenges and optimizing user experiences  
-- ⚙️ Open to collaboration on frontend or AI-based projects  
+-  Currently improving my React and AI skills  
+-  I love solving UI challenges and optimizing user experiences  
+-  Open to collaboration on frontend and AI-based projects  
