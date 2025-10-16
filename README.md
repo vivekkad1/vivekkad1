@@ -6,7 +6,7 @@ I'm passionate about crafting clean, responsive, and interactive web interfaces.
 I enjoy transforming ideas into digital experiences using modern frontend technologies and continuously learning new concepts in Artificial Intelligence.
 
 🧰 Tech Stack
-Frontend: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS  
+Frontend: HTML5 & CSS3, JavaScript(ES6+), React.js, Bootstrap, Tailwind CSS  
 Programming: Python  
 Learning: Web Development, Artificial Intelligence
 
