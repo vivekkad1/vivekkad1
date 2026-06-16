@@ -144,15 +144,15 @@ I believe that frontend development is more than creating beautiful interfacesâ€
 ## ğŸŒ Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/vivekkad/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:vivekkad2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://YOUR_PORTFOLIO_URL.com">
+  <a href="next-portfolio-alpha-peach.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
   </a>
 </p>
