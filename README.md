@@ -1,16 +1,28 @@
-👋 Hi, I'm Vivek Kadavergu  
+# 👨‍💻 `vivek-kadavergu.sys` — Initializing...
 
-**Frontend Developer | React Enthusiast | AI Learner**
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-I'm passionate about crafting clean, responsive, and interactive web interfaces.  
-I enjoy transforming ideas into digital experiences using modern frontend technologies and continuously learning new concepts in Artificial Intelligence.
+> Frontend engineer transforming complex layout constraints into fluid, production-ready Next.js architectures. Currently merging core UI principles with Next.js App Router mechanics and AI paradigms.
 
-**Tech Stack**
-- Frontend: HTML5 & CSS3, JavaScript(ES6+), React.js, Bootstrap, Tailwind CSS  
-- Programming: Python  
-- Learning: Web Development, Artificial Intelligence
+---
 
-**About Me**
--  Currently improving my React and AI skills  
--  I love solving UI challenges and optimizing user experiences  
--  Open to collaboration on frontend and AI-based projects  
+### 📡 System Diagnostics
+
+```javascript
+const developer = {
+  name: "Vivek Kadavergu",
+  role: "Frontend & Next.js Developer",
+  coreFocus: ["Performance Optimization", "Intelligent UI", "State Architecture"],
+  currentStack: {
+    frameworks: ["Next.js (App Router)", "React.js"],
+    styling: ["Tailwind CSS", "Material UI", "Shadcn/ui"],
+    state: ["Redux Toolkit", "Context API"],
+    logic: ["Python", "Algorithms & Patterns (Sliding Window, Two Pointers)"]
+  },
+  aiInterests: ["LLM API Orchestration", "Dynamic UI Generation"]
+};
