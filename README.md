@@ -42,7 +42,6 @@ I enjoy transforming ideas into production-ready products using the latest techn
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
 ### Animation Libraries
