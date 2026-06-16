@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Vivek Kadavergu
+# 👋 Hey, I'm Vivek 
 
-### Next.js Developer • React Ecosystem Enthusiast • Building Fast & Scalable Web Experiences
+### Next.js Developer • Building Fast & Scalable Web Experiences
 
 <p>
 I specialize in developing modern web applications with a strong focus on
@@ -37,16 +37,26 @@ I enjoy transforming ideas into production-ready products using the latest techn
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css" />
 </p>
 
-### Styling & UI Development
+### Styling & UI Engineering
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </p>
 
-### Backend & API Integration
+### Animation Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+</p>
+
+### 3D & Interactive Experiences
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Three_Fiber-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### Programming & Problem Solving
@@ -60,10 +70,9 @@ I enjoy transforming ideas into production-ready products using the latest techn
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
 </p>
+## ⚡ Current Interests
 
 ---
-
-## ⚡ Current Interests
 
 <table>
 <tr>
