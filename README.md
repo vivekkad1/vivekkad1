@@ -152,7 +152,7 @@ I believe that frontend development is more than creating beautiful interfacesâ€
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="next-portfolio-alpha-peach.vercel.app">
+  <a href="https://next-portfolio-alpha-peach.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
   </a>
 </p>
