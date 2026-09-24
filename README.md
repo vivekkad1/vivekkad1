@@ -1,321 +1,382 @@
-# 👋 Hey, I'm Vivek
+<!-- ======================= HERO ======================= -->
 
-### MERN Stack Developer • Building Scalable, Production-Ready Web Applications
+<div align="center">
 
-I build modern full-stack applications using the **MERN ecosystem**, combining clean frontend architecture, reliable backend APIs, database design, authentication, and performance-focused development.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=220&section=header&text=VIVEK&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18" />
 
-I enjoy taking an idea from **UI → API → Database → Deployment** and turning it into a product that people can actually use.
+# `> Hello, World! 👋`
 
-```javascript
-const vivek = {
-  role: "MERN Stack Developer",
+### Building **scalable web applications** from frontend to database.
 
-  focus: [
-    "Full-Stack Web Development",
-    "REST API Architecture",
-    "Scalable React Applications",
-    "Node.js Backend Development",
-    "MongoDB Database Design",
-    "Authentication & Authorization"
-  ],
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+real-world+full-stack+applications;Exploring+AI-powered+web+experiences;Turning+ideas+into+production-ready+products" />
 
-  mindset: [
-    "Build with purpose",
-    "Keep it maintainable",
-    "Optimize where it matters",
-    "Learn by building"
-  ]
-};
+<br/>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/🌐_Portfolio-0f172a?style=for-the-badge" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ======================= TERMINAL ======================= -->
+
+## 🖥️ `$ whoami`
+
+```bash
+vivek@developer:~$ ./about-me.sh
+
+> Role        : MERN Stack Developer
+> Focus       : Full-Stack Web Development
+> Frontend    : React / Next.js / TypeScript
+> Backend     : Node.js / Express.js
+> Database    : MongoDB / MySQL
+> Architecture: REST APIs / Client-Server / MVC
+> Interests   : AI × Web Development
+> Currently   : Building + Learning + Shipping
+```
+
+I like building applications that go beyond a polished UI.
+
+My workflow usually looks like:
+
+```text
+💡 Idea
+   ↓
+🎨 Interface
+   ↓
+⚛️ React / Next.js
+   ↓
+🔌 REST API
+   ↓
+🟢 Node.js + Express
+   ↓
+🍃 MongoDB
+   ↓
+🔐 Authentication
+   ↓
+☁️ Deployment
+   ↓
+🌍 Real Users
 ```
 
 ---
 
-## 🚀 What I Build
+# ⚡ MERN STACK
 
-* 🛒 E-commerce platforms
-* 💼 Job & career management applications
-* 📊 Analytics and dashboard systems
-* 🔐 Authentication-based applications
-* 🌐 SaaS-style web applications
+<div align="center">
+
+### `Frontend`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+
+### `Backend`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### `Database`
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### `Styling & UI`
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+
+### `Tools & DevOps`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker,vercel,netlify,aws" />
+
+</div>
+
+---
+
+# 🧠 ENGINEERING MODE
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                     FULL-STACK MINDSET                      │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🎨 UI/UX              → Responsive + Accessible            │
+│  ⚛️ Frontend           → React + Next.js                    │
+│  🔌 Backend            → Node.js + Express                  │
+│  🗄️ Database           → MongoDB + Mongoose                │
+│  🔐 Security           → Auth + Authorization              │
+│  📡 APIs               → REST + Integration                 │
+│  ⚡ Performance        → Optimization + Caching             │
+│  ☁️ Deployment         → Vercel + Docker + Cloud            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛠️ MY TECH ARSENAL
+
+| Layer              | Technologies                                 |
+| ------------------ | -------------------------------------------- |
+| 🎨 Frontend        | React, Next.js, TypeScript, JavaScript       |
+| 🧩 UI              | Tailwind CSS, Bootstrap, ShadCN UI           |
+| 🧠 State           | Redux Toolkit, Zustand, TanStack Query       |
+| ⚙️ Backend         | Node.js, Express.js                          |
+| 🔌 APIs            | REST APIs, API Integration                   |
+| 🗄️ Database       | MongoDB, Mongoose, MySQL                     |
+| 🔐 Authentication  | JWT, OAuth, Google Authentication, Auth.js   |
+| 📊 Visualization   | Chart.js                                     |
+| 🧪 API Testing     | Postman                                      |
+| 🔧 Version Control | Git, GitHub                                  |
+| ☁️ Deployment      | Vercel, Netlify, AWS                         |
+| 🐳 DevOps          | Docker, CI/CD                                |
+| 🤖 AI              | LLM APIs, Prompt Engineering, AI Integration |
+
+---
+
+# 🚀 THINGS I LIKE BUILDING
+
+```text
+       ┌─────────────────────────────────────┐
+       │           PRODUCT IDEAS             │
+       └──────────────────┬──────────────────┘
+                          │
+          ┌───────────────┼───────────────┐
+          ↓               ↓               ↓
+     🛒 E-Commerce    💼 Job Platforms   📊 SaaS
+          │               │               │
+          ├───────────────┼───────────────┤
+          ↓               ↓               ↓
+     ✈️ Booking       📈 Dashboards      🤖 AI Apps
+          │               │               │
+          └───────────────┼───────────────┘
+                          ↓
+                   🌍 Real Users
+```
+
+I especially enjoy building:
+
+* 🛒 E-commerce applications
+* 💼 Job & career platforms
+* 📊 Analytics dashboards
+* 🧑‍💻 Developer productivity tools
 * ✈️ Travel & booking platforms
-* 🤖 AI-powered web experiences
-* 🔌 API-driven applications
-
-My goal isn't just to build demos — **I build projects around real-world workflows, users, and problems.**
-
----
-
-## 🧩 MERN Stack
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
-</p>
-
-**React.js • Next.js • JavaScript • TypeScript • HTML5 • CSS3**
+* 🔐 Authentication-based SaaS
+* 🤖 AI-powered applications
+* 📱 Responsive web experiences
 
 ---
 
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Node.js • Express.js • REST APIs • API Integration • Authentication**
-
----
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-**MongoDB • MongoDB Atlas • Mongoose • MySQL**
-
----
-
-### 🎨 Styling & UI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-</p>
-
-**Tailwind CSS • Bootstrap • Responsive Design • Component-Based UI**
-
----
-
-### 🔐 Authentication & Application State
-
-**JWT • OAuth • Google Authentication • Auth.js • Firebase Authentication**
-
-**Redux Toolkit • Zustand • TanStack Query**
-
----
-
-### 🛠️ Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
-**Git • GitHub • VS Code • Postman • npm**
-
----
-
-### ☁️ Deployment & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,aws" />
-</p>
-
-**Vercel • Netlify • Docker • AWS • CI/CD**
-
----
-
-## 🏗️ Full-Stack Development
-
-I enjoy working across the entire application stack.
-
-```text
-                    ┌──────────────────────┐
-                    │       Frontend       │
-                    │   React / Next.js    │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │       Backend        │
-                    │ Node.js / Express.js │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │         API          │
-                    │   REST / Auth / CRUD  │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │       Database       │
-                    │ MongoDB / Mongoose   │
-                    └──────────────────────┘
-```
-
----
-
-## 🧠 Engineering Interests
-
-### Frontend Engineering
-
-* Component Architecture
-* Responsive Interfaces
-* State Management
-* Performance Optimization
-* Accessibility
-* SEO
-* Core Web Vitals
-
-### Backend Engineering
-
-* RESTful API Design
-* Authentication & Authorization
-* Middleware Architecture
-* Error Handling
-* API Security
-* Database Integration
-* CRUD Operations
-
-### Database Engineering
-
-* MongoDB Schema Design
-* Mongoose Models
-* Data Relationships
-* Query Optimization
-* Data Validation
-
-### Full-Stack Architecture
-
-* Client–Server Architecture
-* Authentication Flows
-* API Design
-* Role-Based Access Control
-* Environment Configuration
-* Deployment Workflows
-
----
-
-## 🤖 Exploring AI + Web Development
-
-I'm also exploring how AI can become a practical part of modern web applications.
-
-Currently experimenting with:
-
-* AI-powered interfaces
-* LLM API integration
-* Prompt engineering
-* AI-assisted workflows
-* Intelligent search
-* AI productivity tools
-* RAG-based applications
-
-```text
-Traditional Web App
-       ↓
-Frontend + Backend + Database
-
-AI-Powered Web App
-       ↓
-Frontend + Backend + Database
-                +
-             AI Layer
-                ↓
-       Smarter User Experience
-```
-
----
-
-## 📌 Featured Projects
+# 🔥 FEATURED BUILDS
 
 ### 🧑‍💻 Developer Productivity Hub
 
-A full-stack productivity platform designed to help developers organize their work, track productivity, and manage their development workflow.
+```text
+Type        → SaaS / Productivity
+Architecture → Full-Stack
+Focus       → Developer Workflow
+```
 
-**Focus:** Authentication • Dashboards • Productivity • Analytics • Full-Stack Architecture
+A productivity platform designed around the everyday workflow of developers.
+
+**Concepts:** Authentication • Analytics • Dashboards • Productivity • Full-Stack Architecture
 
 ---
 
 ### 💼 JobTrackr
 
-A job management platform for organizing applications, tracking interview stages, and maintaining a structured job-search workflow.
+```text
+Type        → Career Management
+Focus       → Job Search Workflow
+```
 
-**Focus:** Authentication • Job Tracking • Dashboards • Data Visualization
+A job tracking platform for managing applications, interview stages, and career progress.
+
+**Concepts:** CRUD • Authentication • Dashboards • Data Visualization
 
 ---
 
 ### ✈️ BharatTrips
 
-A travel booking experience designed around discovering destinations and managing travel-related services through a modern web interface.
+```text
+Type        → Travel Platform
+Focus       → Search + Booking Experience
+```
 
-**Focus:** Travel • Search • Booking UI • Responsive Design
+A travel-focused web application exploring modern booking workflows and responsive user experiences.
+
+**Concepts:** Search • Filters • Booking UI • Responsive Design
 
 ---
 
-## 📚 Currently Learning
+# 🤖 CURRENTLY EXPLORING
 
 ```javascript
-const learning = [
-  "Advanced MERN Architecture",
-  "TypeScript",
-  "System Design",
-  "Scalable Backend Architecture",
-  "Database Optimization",
-  "Docker & CI/CD",
-  "Cloud Deployment",
-  "AI Integration"
-];
+const currentMission = {
+
+  fullStack: [
+    "Advanced MERN Architecture",
+    "Scalable REST APIs",
+    "Database Optimization",
+    "Authentication & Authorization"
+  ],
+
+  frontend: [
+    "Advanced Next.js",
+    "React Performance",
+    "TypeScript",
+    "Component Architecture"
+  ],
+
+  backend: [
+    "System Design",
+    "API Architecture",
+    "Caching",
+    "Security"
+  ],
+
+  ai: [
+    "LLM Integration",
+    "AI-powered UX",
+    "Prompt Engineering",
+    "RAG Applications"
+  ]
+
+};
 ```
 
 ---
 
-## ⚡ My Development Philosophy
-
-> **Don't just make it work. Build it so it can grow.**
-
-I care about more than getting a feature working.
-
-I try to think about:
-
-**Architecture → User Experience → Performance → Security → Maintainability → Scalability**
-
-Every project is an opportunity to understand something deeper — whether that's designing an API, structuring a database, optimizing a React application, or figuring out how different parts of a system work together.
-
----
-
-## 🎯 What I'm Working Toward
-
-My goal is to become a strong **full-stack engineer** capable of taking a product from an initial idea all the way to a deployed application.
+# 🧬 HOW I THINK ABOUT SOFTWARE
 
 ```text
-Idea
- ↓
-Design
- ↓
-Frontend
- ↓
-Backend
- ↓
-Database
- ↓
-Authentication
- ↓
-Testing
- ↓
-Deployment
- ↓
-Real Users
+                  ┌───────────────┐
+                  │   USER NEED   │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │   EXPERIENCE  │
+                  └───────┬───────┘
+                          ↓
+                  ┌───────────────┐
+                  │  ARCHITECTURE │
+                  └───────┬───────┘
+                          ↓
+             ┌────────────┴────────────┐
+             ↓                         ↓
+      ┌──────────────┐         ┌──────────────┐
+      │   FRONTEND   │ ←────→  │    BACKEND   │
+      └──────────────┘         └──────┬───────┘
+                                      ↓
+                               ┌──────────────┐
+                               │   DATABASE   │
+                               └──────┬───────┘
+                                      ↓
+                               ┌──────────────┐
+                               │   DEPLOYMENT │
+                               └──────────────┘
+```
+
+### My rule:
+
+> **Make it work → Make it clean → Make it fast → Make it scale.**
+
+---
+
+# 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🧩 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 WATCH THE CONTRIBUTIONS GET EATEN
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 📈 DEVELOPMENT LOOP
+
+```text
+        ┌───────────┐
+        │   BUILD   │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │   TEST    │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │   DEBUG   │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │  IMPROVE  │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │   SHIP    │
+        └─────┬─────┘
+              │
+              └───────────────↻
 ```
 
 ---
 
-## 🌍 Let's Connect
+# 🌐 LET'S CONNECT
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 💡 Build. Break. Learn. Improve.
+<div align="center">
 
-**Turning ideas into full-stack applications, one project at a time.**
+### `while(alive) { build(); learn(); ship(); }`
+
+<br/>
+
+**⚡ Building full-stack experiences that are fast, scalable, and useful.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e293b,100:0f172a&height=120&section=footer" />
+
+</div>
