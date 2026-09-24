@@ -4,7 +4,7 @@
 
 ### MERN Stack Developer · Full-Stack Engineer
 
-**Building web applications with clean architecture, practical engineering, and a focus on real-world problems.**
+**Building scalable web applications with clean architecture and practical engineering.**
 
 <br />
 
@@ -18,35 +18,25 @@
 
 ---
 
-## `01` — PROFILE
+## About Me
+
+I'm a **MERN Stack Developer** focused on building modern full-stack applications.
+
+I work across the complete development lifecycle — from designing interfaces and reusable components to building APIs, integrating databases, implementing authentication, and deploying applications.
+
+I'm particularly interested in **software architecture, problem solving, performance, and building systems that can evolve as requirements grow.**
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  VIVEK                                                   │
-│  ──────────────────────────────────────────────────────  │
-│                                                          │
-│  ROLE        Full-Stack / MERN Developer                 │
-│  BUILD       Web Applications & SaaS Products            │
-│  FRONTEND    React · Next.js · TypeScript                │
-│  BACKEND     Node.js · Express                           │
-│  DATABASE    MongoDB · MySQL                             │
-│  LANGUAGE    JavaScript · TypeScript · Python             │
-│  PROBLEM     Data Structures & Algorithms                 │
-│  INTEREST    System Design · AI · Developer Tools         │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+Frontend        Backend          Database        Deployment
+   │               │                │                │
+ React         Node.js           MongoDB          Vercel
+ Next.js       Express           Mongoose         AWS
+ TypeScript    REST APIs         MySQL            Docker
 ```
-
-I'm a **MERN Stack Developer** interested in building complete, production-oriented web applications.
-
-My work spans the entire application lifecycle — **interface → business logic → APIs → database → authentication → deployment**.
-
-I enjoy understanding the engineering behind a product, not just its visual layer.
 
 ---
 
-## `02` — ENGINEERING STACK
+## Technology
 
 ### Languages
 
@@ -88,7 +78,7 @@ I enjoy understanding the engineering behind a product, not just its visual laye
 
 ---
 
-### State & Application Tools
+### State & Application Development
 
 **Redux Toolkit · Zustand · TanStack Query · React Hook Form**
 
@@ -100,21 +90,71 @@ I enjoy understanding the engineering behind a product, not just its visual laye
 
 ---
 
-### Development & Deployment
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker,vercel,netlify,aws" />
 </p>
 
-**Git · GitHub · VS Code · Postman · Docker · Vercel · Netlify · AWS**
+**Git · GitHub · VS Code · Postman · npm · Docker · Vercel · Netlify · AWS**
 
 ---
 
-## `03` — PROBLEM SOLVING
+## Full-Stack Perspective
+
+I think about an application as a connected system rather than separate frontend and backend code.
+
+```text
+                         USER
+                          │
+                          ▼
+                ┌───────────────────┐
+                │     FRONTEND      │
+                │ React / Next.js   │
+                │ TypeScript        │
+                └─────────┬─────────┘
+                          │
+                       HTTP / REST
+                          │
+                          ▼
+                ┌───────────────────┐
+                │      BACKEND      │
+                │ Node.js / Express │
+                │ Business Logic    │
+                └─────────┬─────────┘
+                          │
+                          ▼
+                ┌───────────────────┐
+                │     DATABASE      │
+                │ MongoDB / MySQL   │
+                └───────────────────┘
+```
+
+Supporting the application:
+
+```text
+Authentication
+      │
+Authorization
+      │
+Validation
+      │
+Error Handling
+      │
+Security
+      │
+Performance
+      │
+Deployment
+```
+
+---
+
+## Problem Solving
 
 ### Data Structures & Algorithms
 
-I use **Python** for practicing problem solving and strengthening my understanding of algorithms and data structures.
+I use **Python** for practicing DSA and developing stronger problem-solving skills.
 
 ```text
 DATA STRUCTURES
@@ -143,170 +183,47 @@ ALGORITHMS
 └── Graph Algorithms
 ```
 
-My goal with DSA is not simply solving interview questions — it's developing the ability to **break complex problems into smaller, solvable pieces**.
+For me, DSA is about more than interview preparation. It develops the ability to **analyze a problem, identify constraints, choose an approach, and reason about trade-offs.**
 
 ---
 
-## `04` — FULL-STACK MENTAL MODEL
+## Engineering Principles
 
 ```text
-                         ┌───────────────┐
-                         │     USER      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                    ┌───────────────────────┐
-                    │       FRONTEND        │
-                    │                       │
-                    │ React / Next.js / TS  │
-                    └───────────┬───────────┘
-                                │
-                           REST / HTTP
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │        BACKEND        │
-                    │                       │
-                    │ Node.js / Express.js  │
-                    └───────────┬───────────┘
-                                │
-                         Business Logic
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │       DATABASE        │
-                    │                       │
-                    │ MongoDB / MySQL       │
-                    └───────────────────────┘
+Understand
+    ↓
+Design
+    ↓
+Implement
+    ↓
+Test
+    ↓
+Measure
+    ↓
+Refactor
+    ↓
+Ship
 ```
 
-Supporting the stack:
+### Principles I try to follow
 
-```text
-Authentication
-      +
-Authorization
-      +
-Validation
-      +
-Error Handling
-      +
-Caching
-      +
-Testing
-      +
-Deployment
-```
+* Keep solutions simple before making them sophisticated.
+* Build reusable components instead of repeating logic.
+* Design APIs around clear responsibilities.
+* Consider edge cases early.
+* Optimize based on actual bottlenecks.
+* Write code that another developer can understand.
+* Prefer maintainability over unnecessary complexity.
+
+> **Build for today. Structure for tomorrow.**
 
 ---
 
-## `05` — WHAT I BUILD
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 E-Commerce
-
-Product catalogs, search, filtering, carts, authentication, orders and dashboards.
-
-</td>
-<td width="50%">
-
-### 💼 Career Platforms
-
-Job tracking, applications, interview workflows and analytics.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📊 SaaS Applications
-
-Dashboards, user management, analytics and productivity workflows.
-
-</td>
-<td>
-
-### ✈️ Travel Platforms
-
-Destination discovery, search, filtering and booking experiences.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🧑‍💻 Developer Tools
-
-Productivity systems, workflow management and developer-focused utilities.
-
-</td>
-<td>
-
-### 🤖 AI Applications
-
-AI interfaces, LLM integrations, intelligent search and automated workflows.
-
-</td>
-</tr>
-</table>
-
----
-
-## `06` — PROJECT LAB
-
-### Developer Productivity Hub
-
-**A full-stack productivity platform for developers.**
-
-```text
-Authentication
-      ↓
-Developer Dashboard
-      ↓
-Productivity Tracking
-      ↓
-Analytics
-      ↓
-Insights
-```
-
-**Stack:** Next.js · TypeScript · MongoDB · Mongoose · Authentication · Tailwind CSS
-
----
-
-### JobTrackr
-
-**A job application management platform designed around the complete job-search workflow.**
-
-```text
-Discover → Apply → Track → Interview → Analyze
-```
-
-**Stack:** React · JavaScript · Firebase · MUI · Chart.js
-
----
-
-### BharatTrips
-
-**A travel platform concept focused on destination discovery and booking workflows.**
-
-```text
-Explore → Search → Filter → Select → Book
-```
-
-**Stack:** React · JavaScript · Tailwind CSS · API Integration
-
----
-
-## `07` — CURRENT FOCUS
+## Current Focus
 
 ```javascript
 const focus = {
+
   fullStack: [
     "Advanced MERN Architecture",
     "Scalable REST APIs",
@@ -315,7 +232,7 @@ const focus = {
   ],
 
   frontend: [
-    "Advanced Next.js",
+    "Next.js",
     "TypeScript",
     "React Performance",
     "Component Architecture"
@@ -324,14 +241,14 @@ const focus = {
   backend: [
     "Node.js",
     "Express.js",
-    "System Design",
-    "API Security"
+    "API Security",
+    "System Design"
   ],
 
   problemSolving: [
     "Data Structures",
     "Algorithms",
-    "Competitive Problem Solving"
+    "Problem Solving"
   ],
 
   ai: [
@@ -344,90 +261,34 @@ const focus = {
 
 ---
 
-## `08` — ENGINEERING PRINCIPLES
+## AI × Web Development
+
+I'm exploring how AI can become a practical layer within modern web applications.
 
 ```text
-01  Understand the problem
-        ↓
-02  Design the solution
-        ↓
-03  Build the simplest version
-        ↓
-04  Test the edge cases
-        ↓
-05  Measure the bottlenecks
-        ↓
-06  Refactor what matters
-        ↓
-07  Ship
-```
-
-> **Write code that solves the problem today and remains understandable tomorrow.**
-
----
-
-## `09` — DEVELOPMENT PHILOSOPHY
-
-I believe good software sits at the intersection of:
-
-```text
-                    ┌──────────────┐
-                    │   PRODUCT    │
-                    └──────┬───────┘
+                 WEB APPLICATION
+                        │
+              ┌─────────┴─────────┐
+              │                   │
+        APPLICATION            AI LAYER
+           LOGIC                  │
+              │            ┌──────┼──────┐
+              │            │      │      │
+              │           LLM    RAG   Agents
+              │            │      │      │
+              └────────────┴──────┴──────┘
                            │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-        USABILITY      PERFORMANCE   MAINTAINABILITY
-             │             │             │
-             └─────────────┼─────────────┘
                            ▼
-                     GOOD SOFTWARE
+                    SMART WORKFLOWS
 ```
 
-My focus is to build applications that are:
+### Exploring
 
-**Useful · Understandable · Maintainable · Performant · Scalable**
-
----
-
-## `10` — AI × WEB
-
-I'm exploring AI as another engineering layer within web applications.
-
-```text
-                    WEB APPLICATION
-                          │
-             ┌────────────┴────────────┐
-             │                         │
-        APPLICATION                 AI LAYER
-          LOGIC                       │
-             │                 ┌──────┼──────┐
-             │                 │      │      │
-             │                LLM    RAG   Agents
-             │                 │      │      │
-             └─────────────────┴──────┴──────┘
-                          │
-                          ▼
-                   SMARTER WORKFLOWS
-```
-
-Areas I'm exploring:
-
-**LLM APIs · Prompt Engineering · RAG · AI UX · Automation · Intelligent Search**
+**LLM APIs · Prompt Engineering · RAG · AI UX · Intelligent Search · Automation**
 
 ---
 
-## `11` — GITHUB ACTIVITY
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-## `12` — CURRENTLY LEARNING
+## What I'm Learning
 
 ```text
 MERN Architecture       ███████████████░░░
@@ -441,27 +302,49 @@ Cloud / DevOps          ████████░░░░░░░░░░
 
 ---
 
-## `13` — CONNECT
+## Development Philosophy
+
+Good software sits at the intersection of:
+
+```text
+              ┌───────────────┐
+              │    PRODUCT    │
+              └───────┬───────┘
+                      │
+          ┌───────────┼───────────┐
+          ▼           ▼           ▼
+      USABILITY   PERFORMANCE   MAINTAINABILITY
+          │           │           │
+          └───────────┼───────────┘
+                      ▼
+                GOOD SOFTWARE
+```
+
+I believe frontend and backend development are ultimately about solving problems for people.
+
+Technology is the implementation detail.
+
+The goal is to create software that is **useful, reliable, understandable, and capable of growing.**
+
+---
+
+## Connect
 
 <div align="center">
 
-**Interested in building something?**
-
-<br />
-
-[Portfolio](https://next-portfolio-alpha-peach.vercel.app/)
+[Portfolio](YOUR_PORTFOLIO_URL)
    ·   
-[LinkedIn](https://www.linkedin.com/in/vivekkad/)
+[LinkedIn](YOUR_LINKEDIN_URL)
    ·   
-[Email](mailto:vivekkad2002@gmail.com)
+[GitHub](YOUR_GITHUB_URL)
+   ·   
+[Email](mailto:YOUR_EMAIL)
 
 <br /><br />
 
 ```text
 BUILD  →  LEARN  →  SOLVE  →  IMPROVE  →  SHIP
 ```
-
-<br />
 
 **Building useful software, one problem at a time.**
 
