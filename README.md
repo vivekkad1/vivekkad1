@@ -1,249 +1,253 @@
-<!-- ======================= HERO ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0ea5e9&height=220&section=header&text=VIVEK&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18" />
+<br>
 
-# `> Hello, World! 👋`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=VIVEK&fontSize=82&fontColor=00F7FF&fontAlignY=48&desc=FULL%20STACK%20ENGINEER%20%2F%2F%20MERN%20STACK&descAlignY=72&descSize=17&descColor=8B949E"/>
 
-### Building **scalable web applications** from frontend to database.
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+real-world+full-stack+applications;Exploring+AI-powered+web+experiences;Turning+ideas+into+production-ready+products" />
-
-<br/>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/🌐_Portfolio-0f172a?style=for-the-badge" />
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Initializing+developer.profile...;Loading+MERN+Stack...;Building+systems+that+scale...;Turning+ideas+into+products...;Status%3A+ONLINE+%E2%9A%A1" />
 
 </div>
 
----
-
-<!-- ======================= TERMINAL ======================= -->
-
-## 🖥️ `$ whoami`
-
-```bash
-vivek@developer:~$ ./about-me.sh
-
-> Role        : MERN Stack Developer
-> Focus       : Full-Stack Web Development
-> Frontend    : React / Next.js / TypeScript
-> Backend     : Node.js / Express.js
-> Database    : MongoDB / MySQL
-> Architecture: REST APIs / Client-Server / MVC
-> Interests   : AI × Web Development
-> Currently   : Building + Learning + Shipping
-```
-
-I like building applications that go beyond a polished UI.
-
-My workflow usually looks like:
+<br>
 
 ```text
-💡 Idea
-   ↓
-🎨 Interface
-   ↓
-⚛️ React / Next.js
-   ↓
-🔌 REST API
-   ↓
-🟢 Node.js + Express
-   ↓
-🍃 MongoDB
-   ↓
-🔐 Authentication
-   ↓
-☁️ Deployment
-   ↓
-🌍 Real Users
+╔══════════════════════════════════════════════════════════════╗
+║                    VIVEK.DEVELOPER                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  ROLE        →  MERN STACK DEVELOPER                        ║
+║  MODE        →  BUILD / LEARN / SHIP                        ║
+║  SPECIALTY   →  FULL-STACK WEB APPLICATIONS                 ║
+║  INTEREST    →  AI × WEB × PRODUCT ENGINEERING              ║
+║                                                              ║
+║  FRONTEND    →  React · Next.js · TypeScript                ║
+║  BACKEND     →  Node.js · Express                           ║
+║  DATABASE    →  MongoDB · MySQL                             ║
+║                                                              ║
+║  STATUS      →  ████████████████████  ONLINE                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
+
+# `01 / THE DEVELOPER`
+
+```text
+                 ┌─────────────────────────┐
+                 │       VIVEK.EXE         │
+                 │                         │
+                 │   FULL-STACK BUILDER    │
+                 │                         │
+                 │   React  ───────┐       │
+                 │                  │       │
+                 │   Node  ────────┼──► ⚡  │
+                 │                  │       │
+                 │   MongoDB ──────┘       │
+                 │                         │
+                 └─────────────────────────┘
+```
+
+I'm a **MERN Stack Developer** focused on building modern, scalable web applications.
+
+I enjoy working across the entire stack — from designing interfaces and component systems to building APIs, structuring databases, implementing authentication, and deploying applications.
+
+I don't just want to write code.
+
+**I want to understand how the whole system works.**
 
 ---
 
-# ⚡ MERN STACK
+# `02 / STACK`
 
 <div align="center">
 
-### `Frontend`
+### ⚛️ FRONTEND
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
 
-### `Backend`
+### 🟢 BACKEND
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### `Database`
+### 🍃 DATABASE
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-### `Styling & UI`
+### 🎨 UI / EXPERIENCE
 
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 
-### `Tools & DevOps`
+### 🧰 TOOLING
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker,vercel,netlify,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" />
+
+### ☁️ DEPLOYMENT
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,aws" />
 
 </div>
 
 ---
 
-# 🧠 ENGINEERING MODE
+# `03 / SYSTEM ARCHITECTURE`
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                     FULL-STACK MINDSET                      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🎨 UI/UX              → Responsive + Accessible            │
-│  ⚛️ Frontend           → React + Next.js                    │
-│  🔌 Backend            → Node.js + Express                  │
-│  🗄️ Database           → MongoDB + Mongoose                │
-│  🔐 Security           → Auth + Authorization              │
-│  📡 APIs               → REST + Integration                 │
-│  ⚡ Performance        → Optimization + Caching             │
-│  ☁️ Deployment         → Vercel + Docker + Cloud            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+                         ┌──────────────┐
+                         │     USER     │
+                         └──────┬───────┘
+                                │
+                                ▼
+                  ┌─────────────────────────┐
+                  │       FRONTEND          │
+                  │                         │
+                  │  React / Next.js / TS   │
+                  └────────────┬────────────┘
+                               │
+                         HTTPS / REST
+                               │
+                               ▼
+                  ┌─────────────────────────┐
+                  │        BACKEND          │
+                  │                         │
+                  │   Node.js + Express     │
+                  │                         │
+                  │  Auth │ APIs │ Logic    │
+                  └────────────┬────────────┘
+                               │
+                               ▼
+                  ┌─────────────────────────┐
+                  │        DATABASE         │
+                  │                         │
+                  │   MongoDB + Mongoose    │
+                  └─────────────────────────┘
+```
+
+### The goal:
+
+```text
+        SIMPLE
+          ↓
+       SCALABLE
+          ↓
+      MAINTAINABLE
+          ↓
+       PRODUCTION
 ```
 
 ---
 
-# 🛠️ MY TECH ARSENAL
-
-| Layer              | Technologies                                 |
-| ------------------ | -------------------------------------------- |
-| 🎨 Frontend        | React, Next.js, TypeScript, JavaScript       |
-| 🧩 UI              | Tailwind CSS, Bootstrap, ShadCN UI           |
-| 🧠 State           | Redux Toolkit, Zustand, TanStack Query       |
-| ⚙️ Backend         | Node.js, Express.js                          |
-| 🔌 APIs            | REST APIs, API Integration                   |
-| 🗄️ Database       | MongoDB, Mongoose, MySQL                     |
-| 🔐 Authentication  | JWT, OAuth, Google Authentication, Auth.js   |
-| 📊 Visualization   | Chart.js                                     |
-| 🧪 API Testing     | Postman                                      |
-| 🔧 Version Control | Git, GitHub                                  |
-| ☁️ Deployment      | Vercel, Netlify, AWS                         |
-| 🐳 DevOps          | Docker, CI/CD                                |
-| 🤖 AI              | LLM APIs, Prompt Engineering, AI Integration |
-
----
-
-# 🚀 THINGS I LIKE BUILDING
+# `04 / WHAT I BUILD`
 
 ```text
-       ┌─────────────────────────────────────┐
-       │           PRODUCT IDEAS             │
-       └──────────────────┬──────────────────┘
-                          │
-          ┌───────────────┼───────────────┐
-          ↓               ↓               ↓
-     🛒 E-Commerce    💼 Job Platforms   📊 SaaS
-          │               │               │
-          ├───────────────┼───────────────┤
-          ↓               ↓               ↓
-     ✈️ Booking       📈 Dashboards      🤖 AI Apps
-          │               │               │
-          └───────────────┼───────────────┘
-                          ↓
-                   🌍 Real Users
+┌──────────────────────┐   ┌──────────────────────┐
+│ 🛒 E-COMMERCE        │   │ 💼 CAREER SYSTEMS   │
+│                      │   │                      │
+│ Products             │   │ Job Tracking         │
+│ Search               │   │ Applications         │
+│ Cart                 │   │ Interview Tracking   │
+│ Authentication       │   │ Analytics            │
+└──────────────────────┘   └──────────────────────┘
+
+
+┌──────────────────────┐   ┌──────────────────────┐
+│ 📊 SAAS PLATFORMS    │   │ 🤖 AI APPLICATIONS   │
+│                      │   │                      │
+│ Dashboards           │   │ AI Assistants        │
+│ Analytics             │   │ LLM Integration      │
+│ User Management      │   │ Smart Workflows      │
+│ Role-Based Access    │   │ Intelligent UX       │
+└──────────────────────┘   └──────────────────────┘
 ```
-
-I especially enjoy building:
-
-* 🛒 E-commerce applications
-* 💼 Job & career platforms
-* 📊 Analytics dashboards
-* 🧑‍💻 Developer productivity tools
-* ✈️ Travel & booking platforms
-* 🔐 Authentication-based SaaS
-* 🤖 AI-powered applications
-* 📱 Responsive web experiences
 
 ---
 
-# 🔥 FEATURED BUILDS
+# `05 / PROJECT LAB`
 
 ### 🧑‍💻 Developer Productivity Hub
 
 ```text
-Type        → SaaS / Productivity
-Architecture → Full-Stack
-Focus       → Developer Workflow
+┌─────────────────────────────────────────────────┐
+│  DEVELOPER PRODUCTIVITY HUB                     │
+│                                                 │
+│  Productivity ──► Analytics ──► Insights       │
+│       │                 │              │        │
+│       └────────────┬────┴──────────────┘        │
+│                    ▼                            │
+│             Developer Dashboard                │
+└─────────────────────────────────────────────────┘
 ```
 
-A productivity platform designed around the everyday workflow of developers.
+A SaaS-style application focused on improving developer workflows through productivity tracking, analytics, dashboards, and intelligent features.
 
-**Concepts:** Authentication • Analytics • Dashboards • Productivity • Full-Stack Architecture
+**Stack:** Next.js • TypeScript • MongoDB • Auth • Tailwind • Zustand
 
 ---
 
 ### 💼 JobTrackr
 
 ```text
-Type        → Career Management
-Focus       → Job Search Workflow
+APPLICATION
+     │
+     ├── Applied
+     ├── Screening
+     ├── Interview
+     ├── Offer
+     └── Rejected
+
+          ↓
+
+      ANALYTICS
+          ↓
+     JOB SEARCH
+      INSIGHTS
 ```
 
-A job tracking platform for managing applications, interview stages, and career progress.
-
-**Concepts:** CRUD • Authentication • Dashboards • Data Visualization
+A job application management platform designed to make the job-search process structured and trackable.
 
 ---
 
 ### ✈️ BharatTrips
 
 ```text
-Type        → Travel Platform
-Focus       → Search + Booking Experience
+DESTINATION
+     ↓
+   SEARCH
+     ↓
+   FILTER
+     ↓
+   SELECT
+     ↓
+   BOOK
 ```
 
-A travel-focused web application exploring modern booking workflows and responsive user experiences.
-
-**Concepts:** Search • Filters • Booking UI • Responsive Design
+A travel platform concept focused on creating a smooth discovery and booking experience.
 
 ---
 
-# 🤖 CURRENTLY EXPLORING
+# `06 / CURRENTLY BUILDING`
 
 ```javascript
-const currentMission = {
+const mission = {
 
-  fullStack: [
+  learn: [
     "Advanced MERN Architecture",
-    "Scalable REST APIs",
-    "Database Optimization",
-    "Authentication & Authorization"
-  ],
-
-  frontend: [
-    "Advanced Next.js",
-    "React Performance",
-    "TypeScript",
-    "Component Architecture"
-  ],
-
-  backend: [
     "System Design",
-    "API Architecture",
-    "Caching",
-    "Security"
+    "TypeScript",
+    "Database Optimization"
   ],
 
-  ai: [
+  build: [
+    "Production-ready SaaS",
+    "Scalable REST APIs",
+    "AI-powered applications"
+  ],
+
+  explore: [
     "LLM Integration",
-    "AI-powered UX",
-    "Prompt Engineering",
-    "RAG Applications"
+    "RAG",
+    "AI Agents",
+    "Cloud Architecture"
   ]
 
 };
@@ -251,132 +255,139 @@ const currentMission = {
 
 ---
 
-# 🧬 HOW I THINK ABOUT SOFTWARE
+# `07 / ENGINEERING PRINCIPLES`
 
 ```text
-                  ┌───────────────┐
-                  │   USER NEED   │
-                  └───────┬───────┘
-                          ↓
-                  ┌───────────────┐
-                  │   EXPERIENCE  │
-                  └───────┬───────┘
-                          ↓
-                  ┌───────────────┐
-                  │  ARCHITECTURE │
-                  └───────┬───────┘
-                          ↓
-             ┌────────────┴────────────┐
-             ↓                         ↓
-      ┌──────────────┐         ┌──────────────┐
-      │   FRONTEND   │ ←────→  │    BACKEND   │
-      └──────────────┘         └──────┬───────┘
-                                      ↓
-                               ┌──────────────┐
-                               │   DATABASE   │
-                               └──────┬───────┘
-                                      ↓
-                               ┌──────────────┐
-                               │   DEPLOYMENT │
-                               └──────────────┘
+╭──────────────────────────────────────────────╮
+│                                              │
+│   01   Understand the problem                │
+│                                              │
+│   02   Design before implementing            │
+│                                              │
+│   03   Keep components reusable              │
+│                                              │
+│   04   Keep APIs predictable                 │
+│                                              │
+│   05   Optimize the real bottlenecks        │
+│                                              │
+│   06   Write code that future-me understands│
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
-### My rule:
-
-> **Make it work → Make it clean → Make it fast → Make it scale.**
-
----
-
-# 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
+> **Good code solves today's problem.
+> Good architecture leaves room for tomorrow's.**
 
 ---
 
-# 🧩 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 WATCH THE CONTRIBUTIONS GET EATEN
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 📈 DEVELOPMENT LOOP
+# `08 / DEVELOPMENT LOOP`
 
 ```text
-        ┌───────────┐
-        │   BUILD   │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   TEST    │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   DEBUG   │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │  IMPROVE  │
-        └─────┬─────┘
-              ↓
-        ┌───────────┐
-        │   SHIP    │
-        └─────┬─────┘
-              │
-              └───────────────↻
+             ┌───────────┐
+             │   THINK   │
+             └─────┬─────┘
+                   ↓
+             ┌───────────┐
+             │   BUILD   │
+             └─────┬─────┘
+                   ↓
+             ┌───────────┐
+             │   BREAK   │
+             └─────┬─────┘
+                   ↓
+             ┌───────────┐
+             │  DEBUG    │
+             └─────┬─────┘
+                   ↓
+             ┌───────────┐
+             │  IMPROVE  │
+             └─────┬─────┘
+                   ↓
+             ┌───────────┐
+             │   SHIP    │
+             └─────┬─────┘
+                   │
+                   └───────────↻
 ```
 
 ---
 
-# 🌐 LET'S CONNECT
+# `09 / GITHUB TELEMETRY`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark&title_color=00F7FF&icon_color=00F7FF" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=github-dark-blue&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# `10 / TERMINAL`
+
+```bash
+┌──(vivek㉿github)-[~/projects]
+└─$ npm run future
+
+> building...
+> learning...
+> experimenting...
+> debugging...
+> shipping...
+
+✓ process completed successfully
+
+┌──(vivek㉿github)-[~/projects]
+└─$ _
+```
+
+---
+
+# `11 / CONNECT`
 
 <div align="center">
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=0d1117&color=00F7FF" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&labelColor=0d1117&color=00F7FF" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&labelColor=0d1117&color=00F7FF" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### `while(alive) { build(); learn(); ship(); }`
+```text
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│   BUILD SOMETHING WORTH USING.                 │
+│                                                 │
+│   ─────────────────────────────────────────     │
+│                                                 │
+│   React • Node • MongoDB • TypeScript • AI      │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
-<br/>
+### `// end of profile`
 
-**⚡ Building full-stack experiences that are fast, scalable, and useful.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e293b,100:0f172a&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:172554,100:0d1117&height=100&section=footer"/>
 
 </div>
