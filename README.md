@@ -332,13 +332,11 @@ The goal is to create software that is **useful, reliable, understandable, and c
 
 <div align="center">
 
-[Portfolio](YOUR_PORTFOLIO_URL)
+[Portfolio](https://next-portfolio-alpha-peach.vercel.app/)
    ·   
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/vivekkad/)
    ·   
-[GitHub](YOUR_GITHUB_URL)
-   ·   
-[Email](mailto:YOUR_EMAIL)
+[Email](mailto:vivekkad2002@gmail.com)
 
 <br /><br />
 
